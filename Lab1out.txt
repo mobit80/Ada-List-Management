@@ -1,0 +1,9 @@
+enter size for 'C' option:  12
+empty
+Adding          12
+Adding           3
+Adding           7
+         12           3           7 
+         12           3           7 
+Deleting           3
+         12           7 
